@@ -1,0 +1,3 @@
+Shad
+Medellin
+Backend Developer
